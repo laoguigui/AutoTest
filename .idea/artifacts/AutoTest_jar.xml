@@ -1,0 +1,12 @@
+<component name="ArtifactManager">
+  <artifact name="AutoTest:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/AutoTest_jar</output-path>
+    <root id="root">
+      <element id="archive" name="AutoTest.jar">
+        <element id="module-output" name="chapter5" />
+      </element>
+      <element id="library" level="project" name="Maven: org.testng:testng:6.10" />
+      <element id="library" level="project" name="Maven: com.beust:jcommander:1.48" />
+    </root>
+  </artifact>
+</component>

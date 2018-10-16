@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Class-Path: testng-6.10.jar jcommander-1.48.jar
+Main-Class: 
+
